@@ -242,7 +242,7 @@ const projectsData = {
           "AI-powered mentor matching based on your skills, goals, and learning preferences.",
       },
       {
-        url: "/skillsyncprofile.jpg",
+        url: "/Skillsyncprofile.jpg",
         title: "Profile",
         description:
           "Personal profile with skill list, completed achievements, and mentor feedback.",
