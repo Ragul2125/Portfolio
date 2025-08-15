@@ -149,7 +149,7 @@ export default function Hero() {
                 variant="outline"
                 onClick={() => {
                   // Check if resume file exists, otherwise show a message
-                  const resumePath = "/ragul_resume.pdf"
+                  const resumePath = "/ragulresume.pdf"
                   const link = document.createElement('a')
                   link.href = resumePath
                   link.target = '_blank'
