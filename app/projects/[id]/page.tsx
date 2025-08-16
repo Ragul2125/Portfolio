@@ -359,7 +359,7 @@ const projectsData = {
 
   images: [
     {
-      url: "/talk2db-dashboard.png",
+      url: "/talk2db-landing.png",
       title: "Main Dashboard",
       description: "Clean interface to enter natural language queries and view results.",
     },
