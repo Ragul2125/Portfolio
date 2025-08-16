@@ -6,9 +6,8 @@ import CanvasComponent from "./CanvasComponent"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "John Doe - Fullstack Developer Portfolio",
+  title: "Ragul - Fullstack Developer Portfolio",
   description: "Professional portfolio showcasing fullstack development projects and skills",
-  generator: "v0.dev"
 }
 
 export default function RootLayout({
